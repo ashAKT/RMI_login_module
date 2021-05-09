@@ -58,17 +58,17 @@ Client:
 
 **SERVER:**
 
-javac Server.java
+`javac Server.java`
 
-java Server
+`java Server`
 
 ![asheet](https://user-images.githubusercontent.com/25420334/117572917-c34b5380-b0f2-11eb-9b2f-cb37bf3c5ed6.png)
 
 **CLIENT:**
 
-javac Client.java
+`javac Client.java`
 
-java Client
+`java Client`
 
 ![asheet](https://user-images.githubusercontent.com/25420334/117572945-efff6b00-b0f2-11eb-9ae6-2ef7656e21fa.png)
 
