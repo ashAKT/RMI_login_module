@@ -56,10 +56,21 @@ Client:
 
 # Output
 
-SERVER:
+**SERVER:**
+
+javac Server.java
+
+java Server
 
 ![asheet](https://user-images.githubusercontent.com/25420334/117572917-c34b5380-b0f2-11eb-9b2f-cb37bf3c5ed6.png)
 
-CLIENT:
+**CLIENT:**
+
+javac Client.java
+
+java Client
 
 ![asheet](https://user-images.githubusercontent.com/25420334/117572945-efff6b00-b0f2-11eb-9ae6-2ef7656e21fa.png)
+
+If you are using any IDE then, 
+make sure their is a package name on the first line and then run the program.
